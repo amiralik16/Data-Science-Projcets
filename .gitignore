@@ -1,2 +1,8 @@
 
 *.csv
+*.h5f
+*.bin
+*.json
+*.meta
+*.index
+*.pyc
